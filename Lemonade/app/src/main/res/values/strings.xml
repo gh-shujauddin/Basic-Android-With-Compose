@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="picking_lemon">Nibu ke Ped pe click kr</string>
+    <string name="tap_lemon">Neebu dabate reh</string>
+    <string name="drink_lemonade">Jo bhi nikla h, pee jaa</string>
+    <string name="start_again">Dobara Piyega? Click Kar</string>
+    <string name="lemon_tree">Lemon ka Perh</string>
+    <string name="lemon">Neebu</string>
+    <string name="lemonade_glass">Neebu ka juice</string>
+    <string name="empty_glass">Khali glass</string>
+</resources>
