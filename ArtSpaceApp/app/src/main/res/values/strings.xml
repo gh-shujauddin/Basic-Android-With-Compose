@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="space1_title">Unique Space</string>
+    <string name="space1_name">Idk</string>
+    <string name="space1_year">2021</string>
+
+    <string name="space2_title">Star Cluster</string>
+    <string name="space2_name">Mujhe nahi Pata</string>
+    <string name="space2_year">2022</string>
+
+    <string name="space3_title">Astronaut</string>
+    <string name="space3_name">NASA</string>
+    <string name="space3_year">2022</string>
+
+    <string name="space4_title">Space Travel</string>
+    <string name="space4_name">Anonymous</string>
+    <string name="space4_year">2020</string>
+
+    <string name="space5_title">Earth from space</string>
+    <string name="space5_name">Satellite Image</string>
+    <string name="space5_year">2016</string>
+
+    <string name="space6_title">Mother Earth</string>
+    <string name="space6_name">Don\'t know</string>
+    <string name="space6_year">2023</string>
+</resources>
