@@ -1,3 +1,66 @@
 <resources>
     <string name="app_name">Jetpack Compose In 30 days</string>
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+    <string name="task1">Getting Started with Jetpack Compose</string>
+    <string name="task2"> Understanding Composables</string>
+    <string name="task3">Creating Custom Composables</string>
+    <string name="task4">task 4</string>
+    <string name="task5">task 5</string>
+    <string name="task6">task 6</string>
+    <string name="task7">task 7</string>
+    <string name="task8">task 8</string>
+    <string name="task9">task 9</string>
+    <string name="task10">task 10</string>
+    <string name="task11">task 11</string>
+    <string name="task12">task 12</string>
+    <string name="task13">task 13</string>
+    <string name="task14">task 14</string>
+    <string name="task15">task 15</string>
+    <string name="task16">task 16</string>
+    <string name="task17">task 17</string>
+    <string name="task18">task 18</string>
+    <string name="task19">task 19</string>
+    <string name="task20">task 20</string>
+    <string name="task21">task 21</string>
+    <string name="task22">task 22</string>
+    <string name="task23">task 23</string>
+    <string name="task24">task 24</string>
+    <string name="task25">task 25</string>
+    <string name="task26">task 26</string>
+    <string name="task27">task 27</string>
+    <string name="task28">task 28</string>
+    <string name="task29">task 29</string>
+    <string name="task30">task 30</string>
+
+
 </resources>

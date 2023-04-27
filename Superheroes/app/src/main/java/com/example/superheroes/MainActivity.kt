@@ -44,7 +44,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
 @Composable
 fun superheroItem(
     modifier: Modifier = Modifier,
