@@ -8,13 +8,15 @@ import androidx.room.PrimaryKey
 data class Airport(
     @PrimaryKey(autoGenerate = true)
     val id: Int,
+    val name: String,
     @ColumnInfo(name = "iata_code")
     val iataCode: String,
-    val name: String,
     val passengers: Int
 )
 
-@Entity(tableName = "favorite")
+@Entity(
+    tableName = "favorite"
+)
 data class Favorite(
     @PrimaryKey(autoGenerate = true)
     val id: Int,
